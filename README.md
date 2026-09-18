@@ -1,4 +1,4 @@
-# GabrielQuispeAndia
+
 # ¡Hola! Soy Gabriel 👋
 # Gabriel Quispe Andia
 **Desarrollador Full-Stack en formación | Arquitectura de Software | IA & Visión Computacional | Bases de Datos**
